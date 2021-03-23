@@ -16,4 +16,7 @@ ZCZC W02 45 L27 Pets: feeding, playing, etc.
 ZCZC W02 40 L03 GitHub related
 ZCZC W02 60 L10 Assignment (General)
 ZCZC W02 30 L06 Reading References/Books/Documents
-
+ZCZC W03 90 L02 ZOOM related
+ZCZC W03 100 L10 Assignment (General)
+ZCZC W03 60 L27 Pets: feeding, playing, etc.
+ZCZC W03 45 L06 Reading References/Books/Documents
