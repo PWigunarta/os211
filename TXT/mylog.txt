@@ -23,5 +23,8 @@ ZCZC W03 45 L06 Reading References/Books/Documents
 ZCZC W04 90 L02 ZOOM related
 ZCZC W04 60 L10 Assignment (General)
 ZCZC W04 90 L27 Pets: feeding, playing, etc.
-ZCZC W03 60 L08 Trying something
-ZCZC W03 60 L03 GitHub related
+ZCZC W04 60 L08 Trying something
+ZCZC W04 60 L03 GitHub related
+ZCZC W05 60 L10 Assignment (General)
+ZCZC W05 90 L27 Pets: feeding, playing, etc.
+ZCZC W04 60 L03 GitHub related

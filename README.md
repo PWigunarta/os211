@@ -9,6 +9,6 @@ Operating Systems 2021 (Semester genap 2020/2021)
 ### Weekly Assignment
 1. **[W01](https://pwigunarta.github.io/os211/W01/)**
 2. **[W02](https://pwigunarta.github.io/os211/W02/)**
-2. **[W03](https://pwigunarta.github.io/os211/W03/)**
-2. **[W04](https://pwigunarta.github.io/os211/W04/)**
-
+3. **[W03](https://pwigunarta.github.io/os211/W03/)**
+4. **[W04](https://pwigunarta.github.io/os211/W04/)**
+5. **[W05](https://pwigunarta.github.io/os211/W05/)**
