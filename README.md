@@ -13,3 +13,4 @@ Operating Systems 2021 (Semester genap 2020/2021)
 4. **[W04](https://pwigunarta.github.io/os211/W04/)**
 5. **[W05](https://pwigunarta.github.io/os211/W05/)**
 6. **[W06](https://pwigunarta.github.io/os211/W06/)**
+7. **[W07](https://pwigunarta.github.io/os211/W07/)**

@@ -32,3 +32,7 @@ ZCZC W05 60 L10 Assignment (General)
 ZCZC W05 60 L10 Pets: feeding, playing, etc.
 ZCZC W05 90 L08 Trying something
 ZCZC W05 45 L03 GitHub related
+ZCZC W06 70 L10 Assignment (General)
+ZCZC W05 30 L10 Pets: feeding, playing, etc.
+ZCZC W06 45 L03 GitHub related
+
